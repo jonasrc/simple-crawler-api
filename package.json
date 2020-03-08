@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jonasrc/simple-crawler-api/issues"
   },
-  "homepage": "https://github.com/jonasrc/simple-crawler-api#readme"
+  "homepage": "https://github.com/jonasrc/simple-crawler-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
